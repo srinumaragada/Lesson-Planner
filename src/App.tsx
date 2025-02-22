@@ -13,7 +13,6 @@ function App() {
     <Routes>
   <Route path="/login" element={<LoginPage />} />
   <Route path="/lessonPage" element={<LessonPage />} />
-  <Route path="/" element={<Navigate to="/login" replace />} />
 </Routes>
 
 </div>
