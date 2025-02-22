@@ -15,7 +15,7 @@ interface LessonOutlineProps {
   setValue: UseFormSetValue<LessonPlan>;
 }
 
-const LessonOutline: React.FC<LessonOutlineProps> = ({ generatedPlan, setGeneratedPlan, watch, setValue }) => {
+const LessonOutline: React.FC<LessonOutlineProps> = ({  watch, setValue }) => {
   const [lessonOutline, setLessonOutline] = useState<LessonOutlineItem[]>([]);
 
 
