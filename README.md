@@ -121,7 +121,7 @@ The design is modern and responsive, utilizing **ShadCN** components for consist
 4. Once deployed, Vercel will provide a live URL to access the application.
 
 ### Live Demo Link:
-[**AI-Powered Lesson Planner Demo**](https://lesson-planner-azure.vercel.app/lessonPage)
+[**AI-Powered Lesson Planner Demo**](https://lesson-planner-azure.vercel.app)
 
 ## Contribution
 Feel free to fork the repository and submit pull requests. If you encounter any issues or want to contribute improvements, open an issue or PR.
