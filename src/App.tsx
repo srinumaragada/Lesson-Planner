@@ -11,7 +11,7 @@ function App() {
     <div className="bg-white dark:bg-gray-900 text-black dark:text-white">
     <DarkModeToggle/>
     <Routes>
-  <Route path="/login" element={<LoginPage />} />
+  <Route path="/" element={<LoginPage />} />
   <Route path="/lessonPage" element={<LessonPage />} />
 </Routes>
 
